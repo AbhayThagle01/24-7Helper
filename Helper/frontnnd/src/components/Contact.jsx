@@ -2,7 +2,8 @@ import React from 'react'
 
 const Contact = () => {
     const backg={
-        background:"linear-gradient(to bottom, white,#5fc3ef, white)"
+        background:"linear-gradient(to bottom, white,#5fc3ef, white)" ,
+        height:"100vh"
     
     }
     return (
@@ -29,7 +30,7 @@ const Contact = () => {
                                 <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com"/>
 </div>
                                 <div class="mb-3">
-                                    <label for="exampleFormControlTextarea1" class="form-label">User Suggestions</label>
+                                    <label for="exampleFormControlTextarea1" class="form-label">Example textarea</label>
                                     <textarea class="form-control" id="exampleFormControlTextarea1" rows="5"></textarea>
                                 </div>
                                 <button type="submit" class="btn btn-outline-primary">Send Message</button>
@@ -42,4 +43,3 @@ const Contact = () => {
 }
 
             export default Contact
-
