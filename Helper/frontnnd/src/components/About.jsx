@@ -11,7 +11,7 @@ const About = () => {
             <div className="container py-5 my-5">
                 <div className="row">
                     <div className="col-md-6">
-                        <h1 className="text-primary fw-bold mb-4">About Us</h1>
+                        <h1 className="text-primary fw-bold mb-4"> About Us </h1>
                         <p className="lead mb-4">
                         24*7 Helper is the perfect place to turn to for<br/> all your Apartment, Villa, Office and<br/> beyond requirements — from setting up new<br/> build projects to maintenance help.<br/> We provide first-rate, reliable service<br/> to Residential and Commercial sectors. <br/>Your satisfaction is our commitment!<br/>
 
