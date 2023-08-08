@@ -18,7 +18,7 @@ app.use(express.json());
 app.use(cors());
 
 // app.use("/user",userRouter);
-//Router folder use krna h 
+
 
 //Login and Signup routes
 
